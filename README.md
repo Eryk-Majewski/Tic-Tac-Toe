@@ -2,6 +2,9 @@
 
 Welcome to the Tic Tac Toe project! 🎮 This is a React-based implementation of the classic game. Whether you're a seasoned developer or just starting out, this project will help you hone your skills.
 
+## Preview
+![TicTacToePreview](https://github.com/Eryk-Majewski/Tic-Tac-Toe/assets/110380306/60cd36b3-abe7-4368-b047-ba306ae938d3)
+
 ## What I Learned
 
 - **React Basics:** I got hands-on experience with React components, state management, and lifecycle methods.
